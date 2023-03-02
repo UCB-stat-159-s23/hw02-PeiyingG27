@@ -1,7 +1,6 @@
 """
 readligo.py
 
-
 Version 0.6
 Mar 3, 2021
 Jonah Kanner, Roy Williams, Agata Trovato, and Alan Weinstein
